@@ -4,7 +4,7 @@ PC-FX
 PC-FX is a PC emulator focused on accuracy and hardware preservation above all else.
 PC-FX is based on the 86Box/PCBox emulator.
 
-Our source code repository is at [https://github.com/PCBox/PCBox](https://github.com/PCBox/PCBox)
+Our source code repository is at [https://github.com/PC-FX/PCFX](https://github.com/PC-FX/PCFX)
 
 Features over 86Box/PCBox
 ===================
